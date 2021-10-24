@@ -1,6 +1,6 @@
 name: clickable_tv
-description: A new flutter plugin project.
-version: 0.0.1
+description: A new flutter plugin Clickable Object for Android Tv.
+version: 0.0.2
 repository: https://github.com/ercag/clickable_tv.git
 
 environment:
