@@ -1,7 +1,7 @@
 name: clickable_tv
 description: A new flutter plugin project.
 version: 0.0.1
-homepage:
+repository: https://github.com/ercag/clickable_tv.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
